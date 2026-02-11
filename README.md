@@ -1,6 +1,12 @@
-<h1 align="center">A. Yogeshwaran</h1>
-<h3 align="center">Java Developer | AI & ML Enthusiast | Generative AI Certified</h3>
+<h1 align="center">Hi 👋, I'm A. Yogeshwaran</h1>
+<h3 align="center">Aspiring Software Developer | Java Developer | AI Enthusiast</h3>
 
+<p align="center">
+  <a href="https://github.com/Developer-Yogeshwaran">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+---
 <p align="center">
   <a href="mailto:yogeshofficialwork1@gmail.com">Email</a> • 
   <a href="https://linkedin.com/in/yogeshwaran-a-64655b396">LinkedIn</a> • 
@@ -8,16 +14,16 @@
 </p>
 
 ---
+## 👨‍💻 About Me
 
-## 🚀 Career Objective
+I am a passionate and dedicated Computer Science student from Sethu Institute of Technology.  
+I have strong interest in Software Development and Artificial Intelligence.  
+I enjoy solving logical problems and building real-world applications.
 
-A passionate and motivated Computer Science (AI & ML) student with strong foundation in **Java Development, Artificial Intelligence, Machine Learning, and Python Programming**.  
-
-Certified in **IBM Generative AI** and **Google Digital Marketing**, with hands-on experience in AI-driven applications.  
-
-Seeking internship opportunities to apply problem-solving skills, gain exposure to enterprise technologies, and contribute to innovative, scalable solutions.
+I am currently seeking internship opportunities to enhance my technical and practical skills.
 
 ---
+
 
 ## 🎓 Education
 
@@ -103,18 +109,6 @@ Secondary (Class X) – 78%
 - 🏆 Deloitte Virtual Task Management Program  
 - 🏆 AI Course – CodeVibez Learning Hub  
 - 🏆 Stellantis Automotive Workshop – NIT Trichy  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperYogeshwaran&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperYogeshwaran&theme=tokyonight" />
-</p>
 
 ---
 
