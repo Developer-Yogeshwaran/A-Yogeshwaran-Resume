@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Developer-Yogeshwaran">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    
   </a>
 </p>
 ---
