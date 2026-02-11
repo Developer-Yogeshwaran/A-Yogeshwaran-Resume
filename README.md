@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:yogeshofficialwork1@gmail.com">Email</a> • 
   <a href="https://linkedin.com/in/yogeshwaran-a-64655b396">LinkedIn</a> • 
-  <a href="https://github.com/DeveloperYogeshwaran">GitHub</a>
+  <a href="https://github.com/Developer-Yogeshwaran">GitHub</a>
 </p>
 
 ---
@@ -122,7 +122,7 @@ Secondary (Class X) – 78%
 
 📧 Email: yogeshofficialwork1@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/yogeshwaran-a-64655b396  
-💻 GitHub: https://github.com/DeveloperYogeshwaran  
+💻 GitHub: https://github.com/Developer-Yogeshwaran
 
 ---
 
